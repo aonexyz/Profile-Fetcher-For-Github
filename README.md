@@ -1,10 +1,10 @@
-# 🧩 GitHub Profile Fetcher
+## 🧩 GitHub Profile Fetcher
 ### A simple Vue.js 3 app that fetches and displays a GitHub user’s profile using the GitHub REST API.
 ### Users can enter any GitHub username to view their profile details — including avatar, name, bio, number of public repositories, followers, and following — all in real time.
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 1. Built with Vue 3 (CDN version) — no build tools required
 2. Clean and responsive UI built with pure CSS
 3. Real-time GitHub API integration
@@ -13,7 +13,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 1. Vue.js 3 (CDN)
 2. JavaScript (ES6+)
 3. HTML5 & CSS3
@@ -21,7 +21,7 @@
 
 ---
 
-# 💻 Project Structure
+## 💻 Project Structure
 ```bash
 📁 github-profile-fetcher/
 │
@@ -29,7 +29,7 @@
 ├── app.js          # Vue app logic (fetches data from GitHub API)
 └── style.css       # Styling for UI and components
 ```
-# 📦 How to Use
+## 📦 How to Use
 1. Download or clone this repository
 ```bash
 git clone https://github.com/aonexyz/github-profile-fetcher.git
